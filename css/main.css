@@ -243,7 +243,8 @@ color: blue; -webkit-transform: scale(1.2); -ms-transform: scale(1.2); transform
 }
 
 .foot {
-    margin-bottom: 1em;
+    margin-bottom: 0em;
+    bottom: 0;
 }
 
 .footer_logo {
